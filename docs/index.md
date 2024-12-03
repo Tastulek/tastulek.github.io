@@ -1,1 +1,1 @@
-This file has just been created in the docs foler under main branch.
+This is the first sentence of my GitHub website that provides information on my projects.
